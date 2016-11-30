@@ -2,7 +2,7 @@
   "name": "scorm-api-wrapper",
   "version": "1.1.20160322",
   "description": "The pipwerks SCORM API Wrapper ",
-  "main": "index.js",
+  "main": "src/JavaScript/SCORM_API_wrapper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
